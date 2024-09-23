@@ -29,4 +29,3 @@ Topics: Building a professional network, resume writing, career planning, etc.
 ## Learning Outcomes
 - Understanding of ethical and legal issues in IT.
 - Ability to manage a professional IT career effectively.
-- 
